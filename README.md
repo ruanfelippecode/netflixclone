@@ -1,5 +1,8 @@
 # netflixclone by ruanfelippecode.
 
+The website is deployed in the following link:
+https://netflixclone-three-beta.vercel.app
+
 Overview:
 A small and simple clone of the homepage of Netflix, developed with ReactJS, JavaScript, CSS3.
 An interaction with the TheMovieDB API was also used. With TheMovieDB API, film descriptions, cover images, etc were obtained.
